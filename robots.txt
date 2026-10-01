@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biomancercrimp.github.io/sitemap.xml
